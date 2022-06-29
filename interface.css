@@ -1,0 +1,156 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	width: 1124px;
+	margin-left:0px;
+  }
+.allcolor
+{
+  color: rgb(97, 96, 96);
+}
+.container{
+  margin-left: 60px;
+}
+h6{
+	color:white;
+	background-color: rgb(88, 12, 88);
+	padding: 15px;
+	}
+.nav
+{
+ background-color: rgb(35, 35, 119);
+ float: left;
+ width:1148px;
+ padding:3px 3px;
+}
+.i
+{
+  width:25px;
+  display:block;
+  margin-left:0px;
+  float: left;
+  margin-top:3px;
+  margin: 0px;
+}
+.in
+{
+  width: 1050px;
+  padding: 3px;
+  margin-top: 5px;
+  float: left;
+  margin: 2px;
+}
+.bu
+{
+  width: 65px;
+  float: left;
+  background-color: rgb(68, 68, 160);
+  padding: 3px 3px;
+  margin: 2px;
+  color: white;
+}
+.t
+{
+ float: left; 
+}
+.bgcolor{
+  background-color:rgb(35, 35, 99);
+  width: 1154px;
+  margin: 0px;
+  float: left;
+}
+.t ul{
+   display: flex;
+  justify-content: space-around;
+}
+.t ul li
+{
+  list-style: none;
+}
+.t ul li a
+{
+  color:white;
+  text-decoration: none;
+  padding: 10px;
+}
+p
+{
+  margin-top: 10px;
+  margin-left: 6px;
+}
+span{
+  color: rgb(31, 31, 100);
+}
+.Share
+{
+  margin-top: 10px;
+  display: flex;
+}
+.Share img{
+  width: 80px;
+  height: 70px;
+  margin-left: 6px;
+  float: left;
+}
+.Share input
+{
+  margin-left:60px;
+  width: 1000px;
+  margin-left: 20px;
+  font-size: 20px;
+  border-radius: 30px;
+  border:2px solid rgb(77, 72, 72);
+  margin-top: 6px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  outline: none;
+}
+button
+{
+  width:200px;
+  margin: 10px;
+  margin-left: 150px;
+  padding:15px;
+
+}
+.b
+{
+   border:1px solid rgb(238, 236, 236);
+   width: 1150px;
+    margin:10px 60px;
+}
+.pro
+{
+ 
+  display: flex;
+ 
+  
+ 
+}
+.pro img
+{
+  margin:20px 20px;
+  width: 70px;
+  height: 60px;
+}
+.pro h1 
+{
+  margin-top:40px;
+  margin-left: 10px;
+}
+.pro p
+{
+  margin-top: 40px;
+  float: left;
+  margin-left: 6px
+
+}
+.a
+{
+  width: 700px;
+  height: 600px;
+}
+small{
+  font-size: 10px;
+  margin-left: 6px;
+}
